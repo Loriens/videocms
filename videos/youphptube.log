@@ -1,0 +1,17 @@
+[01-May-2018 15:37:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /Applications/MAMP/htdocs/YouPHPTube-master/objects/include_config.php on line 6
+[01-May-2018 15:37:22 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/YouPHPTube-master/objects/include_config.php on line 15
+[01-May-2018 15:37:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/YouPHPTube-master/objects/configuration.php on line 56
+[01-May-2018 15:37:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/YouPHPTube-master/objects/plugin.php on line 169
+[01-May-2018 15:37:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/YouPHPTube-master/objects/plugin.php on line 72
+[01-May-2018 15:37:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/YouPHPTube-master/objects/plugin.php on line 169
+[01-May-2018 15:37:23 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/YouPHPTube-master/objects/plugin.php on line 187
+[01-May-2018 15:37:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/YouPHPTube-master/objects/plugin.php on line 169
+[01-May-2018 15:37:23 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/YouPHPTube-master/objects/plugin.php on line 187
+[01-May-2018 15:37:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/YouPHPTube-master/objects/plugin.php on line 169
+[01-May-2018 15:37:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/YouPHPTube-master/view/include/navbar.php on line 405
+[01-May-2018 15:37:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/YouPHPTube-master/objects/plugin.php on line 169
+[01-May-2018 15:37:23 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/YouPHPTube-master/objects/plugin.php on line 187
+[01-May-2018 15:37:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/YouPHPTube-master/objects/plugin.php on line 169
+[01-May-2018 15:37:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/YouPHPTube-master/objects/plugin.php on line 169
+[01-May-2018 15:37:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/YouPHPTube-master/objects/plugin.php on line 169
+[01-May-2018 19:54:04 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /Applications/MAMP/htdocs/YouPHPTube-master/objects/video.php on line 1295
